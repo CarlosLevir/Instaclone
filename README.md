@@ -15,7 +15,7 @@ Then, run these commands to install the dependencies.
 ```sh
 cd instagram-clone
 yarn //or npm i
-lerna bootstrap
+yarn bootstrap
 ```
 
 At this time, you can start the project with the following commands:

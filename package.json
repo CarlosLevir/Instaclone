@@ -9,7 +9,7 @@
     "dev-web": "npm-run-all -p -c dev:backend dev:frontend",
     "dev-mobile": "npm-run-all -p -c dev:backend dev:mobile",
     "dev:backend": "cd packages/backend && yarn dev",
-    "dev:front": "cd packages/frontend && yarn start",
+    "dev:frontend": "cd packages/frontend && yarn start",
     "dev:mobile": "cd packages/mobile && react-native run-ios"
   },
   "dependencies": {

@@ -23,7 +23,7 @@ At this time, you can start the project with the following commands:
 To start the whole application, run:
 
 ```sh
-yarn dev-web
+yarn dev
 ```
 
 To start only backend and frontend, run:
@@ -35,5 +35,5 @@ yarn dev-web
 To start only backend and mobile, run:
 
 ```sh
-yarn dev-web
+yarn dev-mobile
 ```
